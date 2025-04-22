@@ -1,2 +1,19 @@
-# twitter_clone
- Twitter Clone é uma aplicação web inspirada na rede social Twitter. O objetivo do projeto é replicar as principais funcionalidades da plataforma original, como criação de contas, autenticação de usuários, postagem de tweets, exibição de um feed público e perfis de usuário.  Este projeto tem fins educacionais e foi desenvolvido com foco no aprendizado de tecnologias web modernas, arquitetura de software (como o padrão MVC), e boas práticas de desenvolvimento.
+# Twitter Clone
+
+Um clone funcional do Twitter, desenvolvido com fins educacionais, arquitetura de software (como o padrão MVC). Permite que usuários criem contas, façam login, publiquem mensagens.
+
+## Funcionalidades
+
+- Cadastro e login de usuários com autenticação segura
+- Criação, exibição e exclusão de tweets
+- Visualização de feed com as últimas postagens
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5, CSS3
+- [Back-end: PHP ]
+- Banco de dados: MySQL
+- Frameworks/Bibliotecas: [Bootstrap, Framework próprio]
+
+
+
